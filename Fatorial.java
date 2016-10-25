@@ -1,6 +1,6 @@
 public class Fatorial {
 	
-	// Versão iterativa do cálculo do fatorial
+	// Versao iterativa do calculo do fatorial, incluindo teste para n = 0
 	public int calcularFatorial(int n) throws IllegalArgumentException{
 
 		if (n < 0)
